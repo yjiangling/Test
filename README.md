@@ -25,12 +25,12 @@
 
 > yin yong wen ben
 
-  mlflow run /data/asr-ctc-training \
-  -P data_dir=/data/asr-ctc-training/dvc \
-  -P batch_size=64 \
-  -P num_epochs=100 \
-  -e train \
-  --run-name nvtest \
-  --env-manager local
+    mlflow run /data/asr-ctc-training \
+    -P data_dir=/data/asr-ctc-training/dvc \
+    -P batch_size=64 \
+    -P num_epochs=100 \
+    -e train \
+    --run-name nvtest \
+    --env-manager local
 
 [Markdown使用说明] (https://www.codenong.com/cs105974878/)
