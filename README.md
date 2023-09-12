@@ -9,15 +9,15 @@
 
 * item1
 * item2
-* item3
+* item3      
 
 - item1
 - item2
-- item3
+- item3    
 
 1. item2
 2. item2
-3. item3
+3. item3     
 
 
 1. item
