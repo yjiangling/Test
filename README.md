@@ -57,6 +57,20 @@
 #include <boost/python/numpy.hpp>
 ```
 
+```Bash
+if [ -f $file ]; then
+    echo "file exist"
+else
+    echo "file not exist"
+fi
+```
+
+```Python
+import numpy as np
+import tensorflow as tf
+```
+
+
 表头1  | 表头2|
 --------- | --------|
 表格单元  | 表格单元 |
