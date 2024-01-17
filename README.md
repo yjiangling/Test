@@ -39,3 +39,11 @@
     --env-manager local
 
 [Markdown使用说明](https://www.codenong.com/cs105974878/)
+
+- [X] 评估
+- [x] 开发
+- [x] 测试
+- [x] 送检
+- [ ] 修改
+- [ ] 二审
+- [ ] 通过
