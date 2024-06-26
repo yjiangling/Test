@@ -49,6 +49,7 @@
 
 [Emoji表情](https://raw.gitcode.com/mirrors/guodongxiaren/test/raw/master/emoji.md)
 
+// 复选框列表，格式为段划线-后接空格，再加上中括号[]，空格后接项目内容，中括号内加入X表示选中
 - [X] 评估
 - [x] 开发
 - [x] 测试
@@ -57,7 +58,7 @@
 - [ ] 二审
 - [ ] 通过
 
-
+// 使代码块按指定的编译器形式展示，三个上撇加上语言类型，例如```Shell，代码块最后一行后另起一行输入三个上撇
 ```C++
 #include <stdio>
 #include <iostream>
